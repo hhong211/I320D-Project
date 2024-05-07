@@ -1,1 +1,2 @@
-# I320D-Project
+# Temperature Trends: The Effects of Climate Change
+In this project, we aim to use some models that predict future climate changes based on past temperature trends. Our purpose is to raise awareness among environmentalists and the general public about the impacts of climate change on our environment. These models will help illustrate potential future scenarios, informing and engaging our audience in meaningful discussions and actions on climate issues. 
